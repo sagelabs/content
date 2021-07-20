@@ -26,9 +26,13 @@ setupCode:
 
 ## Content
 
-Can you make a program that will take two numbered lists, join them together into one list and then sort them by size?
+> 👩‍💻 Your task is to make a program that will:
+> - **take two numbered lists**
+> - **join them together into one list**
+> - **sort them by size**
+> - **print the resulting list**
 
-Here are the two lists of numbers.
+Here are the two lists of numbers:
 ```python
 oddNumbers = [101, 23, 11, 37, 3, 83, 1]
 evenNumbers = [12, 0, 8, 92, 98, 44, 76]
@@ -44,7 +48,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

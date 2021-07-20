@@ -27,7 +27,10 @@ setupCode:
 
 ## Content
 
-Can you define a function that will take a sentence as input? The function should split the sentence into separate words and only output words longer than 4 letters?
+> 👩‍💻 Your task is to define a function that:
+> - **takes a sentence as input**
+> - **splits the sentence into separate words**
+> - **output words longer than four letters**
 
 Example input/output:
 ```javascript
@@ -71,4 +74,4 @@ Create a function with an input variable.
 
 > Use (`.split()`).
 
-Use a loop to cycle through every word and a conditional statement to only output words longer that four letters.
+Use a loop to cycle through every word and a conditional statement to only output words longer than four letters.

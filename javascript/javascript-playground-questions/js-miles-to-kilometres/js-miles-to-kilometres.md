@@ -25,15 +25,17 @@ setupCode:
 
 ## Content
 
-How would you write a program that will convert miles to kilometres? The output should contain a message along with the result.
+> 👩‍💻 Your task is to write a program that:
+> - **converts miles to kilometers**
+> - **outputs a message along with the result**
 
 It's up to you to choose which operation to use and what the message will be.
 
 To achieve this, you should use the following concepts:
 - variable creation (`age = 29`)
 - arithmetic operators (`+, -, *, /`)
-- A kilometre is equal to `0.621371` miles
-- A mile is equal to `1.60934` kilometres
+- A kilometer is equal to `0.621371` miles
+- A mile is equal to `1.60934` kilometers
 
 As a bonus, see how you would round the result up to 2 decimal places.
 

@@ -25,7 +25,10 @@ setupCode:
 
 ## Content
 
-Can you write a program that will take an object with at least five values as input, sum all of the values, and output the result?
+> 👩‍💻 Your task is to write a program that:
+> - **takes an object with at least five values as input**
+> - **sums all of the values**
+> - **outputs the result**
 
 To achieve this, you can use the following concepts:
 - variable creation (`age = 31`)

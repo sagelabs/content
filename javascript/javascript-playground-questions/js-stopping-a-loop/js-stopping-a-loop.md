@@ -28,8 +28,12 @@ setupCode:
 ---
 
 ## Content
+  
+> 👩‍💻 Your task is to create a loop that:
+> - **cycles through an array of names**
+> - **outputs every name until it reaches a specific one, then break out of the loop**
 
-Given an array of famous scientist:
+Example array to use:
 
 ```javascript
 let scientists = [
@@ -43,8 +47,6 @@ let scientists = [
   "Nikola Tesla"
   ];
 ```
-
-Can you create a loop that will print out every name from the array until it reaches `Katherine Johnson`, including "`Katherine`"?
 
 To achieve this, you should use the following concepts:
 - variable creation (`age = 29`)

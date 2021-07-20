@@ -24,9 +24,10 @@ setupCode:
 
 ## Content
 
-The Fibonacci sequence is a series of numbers where the next number is the sum of the previous two numbers.
+> 👩‍💻 Your task is to write a program that:
+> - **prints the first 15 terms of the Fibonacci sequence**
 
-Can you write a program that will print the Fibonacci sequence up to 15 terms?
+> The Fibonacci sequence is a series of numbers where the next number is the sum of the previous two numbers.
 
 To achieve this, you can use the following concepts:
 - first two terms of the sequence are `0` and `1`.
@@ -36,7 +37,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

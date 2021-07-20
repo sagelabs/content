@@ -27,7 +27,11 @@ setupCode:
 
 ## Content
 
-Can you make a program that will take a sentence as input and output the total number of letters? The program should ignore spaces.
+> 👩‍💻 Your task is to make a program that will:
+> - **take a sentence as input**
+> - **count the total number of letters**
+> - **it should ignore spaces**
+> - **output the result**
 
 ```javascript
 // Input string

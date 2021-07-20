@@ -23,7 +23,10 @@ setupCode:
 
 ## Content
 
-Using the `random` module, can you create a function that will operate like a dice roll? Every time you execute it you should get a number between 1 and 6.
+> 👩‍💻 Your task is to:
+- **create a function using the `random` module**
+- **it should operate like a dice roll**
+- **every time you execute it, it should return a number between 1 and 6**
 
 To achieve this, you can use the following concepts:
 - importing (`from...import`, `import`...)
@@ -33,7 +36,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

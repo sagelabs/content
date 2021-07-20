@@ -25,7 +25,11 @@ setupCode:
 
 ## Content
 
-Using the `Date` object and its methods, create a program that will check if the current date is your birthday. If it is, print a happy birthday message. If it is not, output how many days left till your birthday.
+> 👩‍💻 Your task is to create a program:
+> - **using the `Date` object**
+> - **it should check if the current date is your birthday**
+> - **If it is, print a happy birthday message**
+> - **If not, output how many days until your birthday**
 
 To achieve this, you can use the following concepts:
 - Date methods(`now()`, `year()`, `month()`,...)

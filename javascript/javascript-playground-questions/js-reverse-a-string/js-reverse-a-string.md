@@ -28,7 +28,10 @@ setupCode:
 
 ## Content
 
-Can you write a program that will take a string as input and output it in reverse?
+> 👩‍💻 Your task is to write a program that:
+> - **takes a string as input**
+> - **reverses it** 
+> - **outputs it to the console**
 
 Example:
 ```javascript

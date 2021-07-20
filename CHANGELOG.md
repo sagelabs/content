@@ -48,6 +48,13 @@ Types of change:
 
 ### Fixed
 
+## July 19th 2021
+
+### Changed
+- [Python and JavaScript - All coding insights - Apply kirils suggestions](https://github.com/enkidevs/curriculum/pull/2795)
+
+## July 15th 2021
+
 ### Changed
 - [Python - All Coding Exercises - Remove markdown form readmes and update setupCodes](https://github.com/enkidevs/curriculum/pull/2791)
 - [Python - Python Versions - Remove type in the gap](https://github.com/enkidevs/curriculum/pull/2793)

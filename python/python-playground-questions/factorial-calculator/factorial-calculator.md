@@ -24,9 +24,12 @@ setupCode:
 
 ## Content
 
-Can you write a program that will take a number as input and output its factorial value?
+> 👩‍💻 Your task is to write a program that:
+> - **takes a number as input**
+> - **outputs its factorial value**
 
-> A factorial of the number 5, which is written as `5!`, would be calculated as 5 x 4 x 3 x 2 x 1.
+> A factorial of the number 5, written as `5!`, would be calculated as 5 x 4 x 3 x 2 x 1.
+
 
 Example output:
 
@@ -44,7 +47,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

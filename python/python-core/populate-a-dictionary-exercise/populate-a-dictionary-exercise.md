@@ -11,7 +11,7 @@ category: coding
 setupCode:
   startingPoint: |
     # 👋 Welcome to the Python coding playground. 
-    # Using these two lists:
+    # Use these two lists:
     keys = ['Name', 'Surname', 'Profession']
     values = ["Alan", "Turing", "Mathematician"]
 
@@ -27,20 +27,12 @@ setupCode:
 
 ## Content
 
-Given an empty `dictionary`:
-```python
-person = {
+> 👩‍💻 Your task is to populate a `dictionary` using these two `lists`:
 
-}
-```
-
-And two `list`s:
 ```python
 keys = ['Name', 'Surname', 'Profession']
 values = ["Alan", "Turing", "Mathematician"]
 ```
-
-Can you populate the `person` `dict` using the two `lists`? 
 
 Don't forget to output the new `dictionary`.
 
@@ -51,7 +43,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

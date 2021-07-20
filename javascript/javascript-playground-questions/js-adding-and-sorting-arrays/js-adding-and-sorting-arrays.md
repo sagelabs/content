@@ -26,7 +26,10 @@ setupCode:
 
 ## Content
 
-Can you make a program that will take two arrays of numbers, join them together into one, and then sort them in your desired order?
+> 👩‍💻 Your task is to:
+> - **create a program that takes two arrays of numbers as input**
+> - **joins them together into one array**
+> - **sort them in ascending or descending order**
 
 Use these two arrays:
 ```javascript

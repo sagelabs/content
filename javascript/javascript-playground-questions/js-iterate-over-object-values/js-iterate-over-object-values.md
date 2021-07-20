@@ -28,8 +28,12 @@ setupCode:
 ---
 
 ## Content
+  
+> 👩‍💻 Your task is to write a program that: 
+> - **iterates over each element of an object**
+> - **outputs each of them to the console**
 
-Given an object:
+Example object to iterate:
 
 ```javascript
 let person = {
@@ -39,8 +43,6 @@ let person = {
   country: 'England'
 };
 ```
-
-Can you write a program that iterates over each element and prints them out?
 
 To achieve this, you can use the following concepts:
 - variable creation `person = { name:'Alan', age:...}`

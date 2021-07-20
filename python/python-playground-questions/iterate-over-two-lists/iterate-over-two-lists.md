@@ -11,7 +11,7 @@ category: coding
 setupCode:
   startingPoint: |
     # 👋 Welcome to the Python coding playground. 
-    # These are the lists:
+    # Lists to use:
 
     name = ['Stefan', 'Michael', 'Rebekah', "Natasha"]
     lastName = ['Stojanovic', 'Stevens', 'Mikaelson', "Romanoff"]
@@ -26,13 +26,16 @@ setupCode:
 
 ## Content
 
-Given two lists:
-```python
-name = ['Stefan', 'Michael', 'Rebekah', "Natasha"]
-lastName = ['Stojanovic', 'Stevens', 'Mikaelson', "Romanoff"]
-```
+> 👩‍💻 Your task is to write a program that:
+> - **simultaneously iterates over two lists**
+> - **prints a value from each list as a pair**
 
-Can you write a program that will iterate over both lists at the same time and output the corresponding values?
+Example arrays:
+
+```javascript
+let names = ['Stefan', 'Michael', 'Rebekah', "Natasha"];
+let lastNames = ['Stojanovic', 'Stevens', 'Mikaelson', "Romanoff"];
+```
 
 Example output:
 ```plain-text
@@ -49,7 +52,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

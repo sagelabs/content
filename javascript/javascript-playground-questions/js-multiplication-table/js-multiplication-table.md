@@ -29,7 +29,9 @@ setupCode:
 
 ## Content
 
-Can you create a program that will display the multiplication table for any number between 1 and 10 (both included)?
+> 👩‍💻 Your task is to create a program that:
+> - **takes a number between 1 and 10 as input**
+> - **outputs a multiplication table for that number**
 
 If the input is `5`, the output should look similar to this:
 ```javascript

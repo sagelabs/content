@@ -11,8 +11,17 @@ category: coding
 setupCode:
   startingPoint: |
     # 👋 Welcome to the Python coding playground. 
+    # Example dictionary:
+    # myDict = {
+    #   'name': 'Alan', 
+    #   'surname': 'Turing', 
+    #   'education': 'Sherborne School', 
+    #   'country': 'England'
+    #  }
+    #
     # Example output:
     # name, Alan
+    # surname, Turing
 
     # Type your code here:
 
@@ -24,8 +33,10 @@ setupCode:
 
 ## Content
 
-Given a dictionary:
+> 👩‍💻 Your task is to write a program that: 
+> - **iterates over each element of a dictionary and prints them**
 
+You can use this dictionary:
 ```python
 myDict = {
   'name': 'Alan', 
@@ -35,7 +46,6 @@ myDict = {
 }
 ```
 
-Can you write a program that iterates over each element and prints them out?
 
 To achieve this, you can use the following concepts:
 - variable creation `person ={'name':'Stefan','age'...}`
@@ -46,7 +56,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

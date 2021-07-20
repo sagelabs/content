@@ -25,7 +25,9 @@ setupCode:
 
 ## Content
 
-Can you write a program that will take a number as input and output its factorial value?
+> 👩‍💻 Your task is to write a program that:
+> - **takes a number as input**
+> - **outputs its factorial value**
 
 > A factorial of the number 5, written as `5!`, would be calculated as 5 x 4 x 3 x 2 x 1.
 

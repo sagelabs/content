@@ -14,7 +14,7 @@ setupCode:
     # Example input:
     # 314
     # Example output:
-    # Poseidon has an even number of spheres
+    # It is even
     
     # Type your code here:
       
@@ -26,7 +26,9 @@ setupCode:
 
 ## Content
 
-Your friend Poseidon recently bought a box of strawberries. Can you write a program that will determine if he has an even or odd number of them? Print a message along with the result when you're done.
+> 👩‍💻 Your task is to write a program that will:
+> - **take a number as input**
+> - **determine if it is even or odd, and output a message**
 
 To achieve this, you can use the following concepts:
 - flow control (`if (age > 30) ...`)
@@ -36,7 +38,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

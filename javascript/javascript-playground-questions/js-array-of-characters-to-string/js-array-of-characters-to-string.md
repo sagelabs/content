@@ -12,7 +12,7 @@ setupCode:
   startingPoint: |
     // 👋 Welcome to the JavaScript coding playground.
 
-    // The array of characters:
+    // An array characters:
     let c = ['h', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd'];
 
     // Type your code here:
@@ -25,7 +25,12 @@ setupCode:
 
 ## Content
 
-Given an array of characters:
+> 👩‍💻 Your task is to write a program that will:
+> - **take an array of characters as input**
+> - **transform it into a string**
+> - **output the result**
+
+Example array to use:
 ```javascript
 let c = [
   'h', 
@@ -42,7 +47,6 @@ let c = [
 ];
 ```
 
-Can you write a program that will take the array as input, transform it into a string, and output the result?
 
 To achieve this, you can use the following concepts:
 - function declaration (`function something(x) { ... }`)

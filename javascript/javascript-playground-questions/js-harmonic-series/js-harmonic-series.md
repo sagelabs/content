@@ -22,11 +22,13 @@ setupCode:
 
 ## Content
 
-The harmonic series is the divergent infinite series that looks like this:
+> 👩‍💻 Your task is to create a function that will:
+> - **sum up the first 15 terms of the harmonic series**
+> - **round them to 5 decimal places**
+
+> The harmonic series is the divergent infinite series that looks like this:
 
 ![harmonic-series](https://img.enkipro.com/86e08401cab9a7841c91077c24e46945.png)
-
-Can you create a function that will sum up the first 15 terms of this series and round them to 5 decimal places?
 
 To achieve this, you can use the following concepts:
 - variable creation (`age = 25`)

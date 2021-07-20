@@ -13,8 +13,8 @@ setupCode:
     // 👋 Welcome to the JavaScript coding playground.
 
     // Example outputs:
-    // Zeus has 31 spheres
-    // Zeus has an odd number of spheres
+    // It is even
+    // There is an odd number of spheres
 
     // Type your code here:
     
@@ -26,9 +26,10 @@ setupCode:
 
 ## Content
 
-Your friend Zeus recently bought a box of glass spheres. Can you write a program that will determine if he has an even or odd number of spheres? 
-
-> Print a message along with the result when you're done.
+> 👩‍💻 Your task is to create a program that:
+> - **takes a number as input**
+> - **checks if it is even or odd**
+> - **outputs a message for both cases** 
 
 To achieve this, you can use the following concepts:
 - flow control (`if (age > 30) ...`)

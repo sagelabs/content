@@ -30,7 +30,12 @@ setupCode:
 
 ## Content
 
-Given an object with three arrays:
+> 👩‍💻 Your task is to create a program that:
+> - **takes an object with three arrays**
+> - **sorts the values in each array in ascending order**
+> - **outputs the sorted object**
+
+Example object:
 
 ```javascript
 let obj = {
@@ -39,8 +44,6 @@ let obj = {
   'third': [8, 1, 19, 13]
 };
 ```
-
-Can you sort the values in each array alphabetically?
 
 To achieve this, you can use the following concepts:
 - Array method (`sort()`)

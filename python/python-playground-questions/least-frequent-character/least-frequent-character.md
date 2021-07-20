@@ -24,7 +24,10 @@ setupCode:
 
 ## Content
 
-Can you write the least frequent character program? It should take a string as input and determine which characters appear the least. 
+> 👩‍💻 Your task is to write a program that:
+> - **takes a string as input**
+> - **determines which characters appear the least**
+> - **print the least occurring character along with its number of occurrences**
 
 To achieve this, you can use the following concepts:
 - flow control (`for...in`, `if (age > 1)...`)
@@ -34,7 +37,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

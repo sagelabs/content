@@ -24,9 +24,10 @@ setupCode:
 
 ## Content
 
-Can you create a function that will take two objects as input, combine them, and return a single one?
-
-> Don't forget to call the function afterward.
+> 👩‍💻 Your task is to create a function that:
+> - **takes two objects as input**
+> - **combines them**
+> - **returns a single object**
 
 To achieve this, you can use the following concepts:
 - variable creation (`age = 33`).

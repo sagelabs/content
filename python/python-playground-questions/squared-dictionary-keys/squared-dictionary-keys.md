@@ -33,7 +33,9 @@ setupCode:
 
 ## Content
 
-Can you create a dictionary whose keys go from 1 to 10 (bounds included) and each value for the corresponding key is equal to the square of the key?
+> 👩‍💻 Your task is to create a dictionary:
+> - **its keys should go from 1 to 10 (bounds included)**
+> - **the value corresponding to each key should equal the square value of the key**
 
 Example solution:
 ```python
@@ -59,7 +61,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

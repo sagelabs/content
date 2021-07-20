@@ -31,7 +31,14 @@ setupCode:
 
 ## Content
 
-Given an `object`:
+> 👩‍💻 Your tasks are to:
+- **add the missing `"German"` language**
+- **replace the wrong `equation` with the correct one; `"e = mc^2"`**
+- **add a new key called `"nobelRecipient"` with the value `true`**
+- **delete the `quote`**
+- **log the new `person` object to the console**
+
+Use this `object`:
 ```javascript
 let person = {
   name: "Albert Einstein",
@@ -41,14 +48,6 @@ let person = {
   quote: "Life is like riding a bicycle. To keep your balance you must keep moving."
 };
 ```
-
-Do these tasks:
-
-- Add the missing `"German"` language
-- Replace the wrong `equation` with the correct one; `"e = mc^2"`
-- Add a new key called `"nobelRecipient"` with the value `true`
-- Delete the `quote`
-- Log the new `person` object to the console
 
 To achieve this, you can use the following concepts:
 - object methods (`.push()`, `delete`)

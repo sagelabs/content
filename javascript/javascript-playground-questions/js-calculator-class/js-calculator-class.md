@@ -25,9 +25,10 @@ setupCode:
 
 ## Content
 
-Can you create a `Calculator` class that has the ability to multiply, divide, subtract and add two numbers?
-
-After creating the class, call each of the four methods to confirm it works.
+> 👩‍💻 Your task is to create a `Calculator` class that:
+> - **takes two numbers as input**
+> - **has four methods that; multiply, divide, subtract and add two numbers**
+> - **after creating the class, call each of the four methods to confirm it works**
 
 To achieve this, you can use the following concepts:
 - class creation (`class Something { }`)

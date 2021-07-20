@@ -29,15 +29,16 @@ setupCode:
 
 ## Content
 
-The Pascal triangle is a triangular array of binomial coefficients.
+> 👩‍💻 Your task is to write a program that:
+> - **outputs the Pascal triangle**
+
+> The Pascal triangle is a triangular array of binomial coefficients.
 
 ![pascal-triangle](https://img.enkipro.com/9ca1eb25c5fc393b831db1556dcad889.png)
 
 Here is a gif from Wikipedia that demonstrates how each value is calculated:
 
 ![wiki-explanation](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
-
-Can you write a program that will print the Pascal triangle exactly like in the above gif?
 
 To achieve this, you can use the following concepts:
 - variable creation (`age = 22`)

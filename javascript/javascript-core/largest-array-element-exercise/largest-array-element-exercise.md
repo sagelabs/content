@@ -11,7 +11,7 @@ category: coding
 setupCode:
   startingPoint: |
     // 👋 Welcome to the JavaScript coding playground. 
-    // Use this array:
+    // You can use this array:
 
     let numbers = [23, 81, 14, 5, 33, 631, 47, 78, 99]
     
@@ -25,12 +25,15 @@ setupCode:
 
 ## Content
 
-Given a numbered `array`:
+> 👩‍💻 Your task is to create a loop that:
+> - **cycles through an array**
+> - **determines which number is the largest**
+> - **outputs it to the console**
+
+Example `array` to use:
 ```javascript
 let numbers = [23, 81, 14, 5, 33, 631, 47, 78, 99]
 ```
-
-Can you create a loop that will cycle through the `array`, determine which number is the largest, and output it to the console?
 
 To achieve this, you can use the following concepts:
 - looping (`for`)

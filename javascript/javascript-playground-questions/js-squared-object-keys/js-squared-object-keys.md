@@ -33,7 +33,9 @@ setupCode:
 
 ## Content
 
-Can you create an object whose keys go from 1 to 10 (bounds included) and each value for the corresponding key is equal to the square of the key?
+> 👩‍💻 Your task is to create an object:
+> - **its keys should go from 1 to 10 (bounds included)**
+> - **the value corresponding to each key should equal the square value of the key**
 
 Example solution:
 ```javascript

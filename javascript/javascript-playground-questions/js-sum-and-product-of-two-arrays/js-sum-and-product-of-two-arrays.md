@@ -26,9 +26,13 @@ setupCode:
 
 ## Content
 
-Can you define a function that will take two arrays as input, sum up the values in each array, multiply them, and then print the result?
+> 👩‍💻 Your task is to define a function that:
+> - **takes two arrays as input**
+> - **sums up the values in each array**
+> - **multiplies the sumed values**
+> - **outputs the result**
 
-Arrays:
+Example arrays:
 ```javascript
 let first = [1, 3, 5];
 

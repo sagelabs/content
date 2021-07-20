@@ -25,15 +25,16 @@ setupCode:
 
 ## Content
 
-Given the array:
+> 👩‍💻 Your task is to write a program that will:
+> - **take an array as input**
+> - **output the first and last number, second and second to last, and so on**
 
+Example input array:
 ```javascript
 let numbers = [1, 3, 5, 7, 9, 10, 8, 6, 4, 2];
 ```
 
-Can you write a program that will print the first and last, second and second to last, and so on?
-
-The output should look like this:
+Example output:
 ```javascript
 [1, 2]
 [3, 4]

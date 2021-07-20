@@ -26,7 +26,11 @@ setupCode:
 
 ## Content
 
-Can you create a function that will take a number as input. If one of the numbers is between `0-6` output the corresponding day of the week. `0` being `Monday`. If the input is not a number, output a message like `"Try Again."`
+> 👩‍💻 Your task is to create a function that will:
+> - **take a number as input**
+> - **determine if the number is between 0-6**
+> - **if it is, output the corresponding day of the week (0 for Monday)** 
+> - **if not, output a message like "Try Again."**
 
 To achieve this, you can use the following concepts:
 - function definition (`def something(x):`)
@@ -37,7 +41,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

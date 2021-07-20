@@ -23,18 +23,15 @@ setupCode:
 
 ## Content
 
-Given an empty `tuple`:
-```python
-myTuple = ()
-```
-
-Can you populate it with as many different data types as you can think off. After populating it, output one of them in a `print` statement through its `index`.
+> 👩‍💻 Your task is to:
+- **populate an empty tuple with as many different data types as you can think of**
+- **output one of them in a print statement through its index**
 
 Learning is best when we give it an honest try. Even if we make a mistake, we'll remember it and do better next time.
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

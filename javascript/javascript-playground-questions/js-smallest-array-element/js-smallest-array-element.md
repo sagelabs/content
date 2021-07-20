@@ -26,7 +26,9 @@ setupCode:
 
 ## Content
 
-Can you create a program that will output the smallest number from a given array?
+> 👩‍💻 Your task is to create a program that:
+> - **takes an array as input**
+> - **output the smallest number from the array**
 
 Here is the array:
 ```javascript

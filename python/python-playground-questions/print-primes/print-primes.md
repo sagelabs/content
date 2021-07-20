@@ -25,9 +25,10 @@ setupCode:
 
 ## Content
 
-Can you create a program that will print the first 15 prime numbers?
+> 👩‍💻 Your task is to create a program that:
+> - **outputs the first 15 prime numbers**
 
-A prime number is a number that is only divisible by 1 and itself.
+> A prime number is a number that is only divisible by 1 and itself.
 
 The first 15 primes fall in the range `2`-`50`. Some of them are 2, 3, 5, 7, 11, 13, and so on.
 
@@ -42,7 +43,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

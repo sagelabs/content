@@ -28,7 +28,9 @@ setupCode:
 
 ## Content
 
-Can you create a program that will display the multiplication table for any number between 1 and 10 (both included)?
+> 👩‍💻 Your task is to create a program that:
+> - **takes a number between 1 and 10 as input**
+> - **outputs a multiplication table for that number**
 
 If the input is `5`, the output should look similar to this:
 ```python
@@ -58,7 +60,7 @@ Learning is best when we give it an honest try. Even if we make a mistake, we'll
 
 That being said, if you're not sure how to get started, check out this footnote[1]. 
 
-When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
+When you're finished, feel free to share your solution with the community, join in on discussions, and upvote solutions from your fellow learners!
 
 Remember, learning is more effective when we do it with others.
 

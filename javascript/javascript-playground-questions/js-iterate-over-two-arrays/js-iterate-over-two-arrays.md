@@ -26,14 +26,16 @@ setupCode:
 
 ## Content
 
-Given two arrays:
+> 👩‍💻 Your task is to write a program that:
+> - **iterates over two arrays simultaneously**
+> - **outputs a value from each array as a pair**
+
+Example arrays:
 
 ```javascript
 let names = ['Stefan', 'Michael', 'Rebekah', "Natasha"];
 let lastNames = ['Stojanovic', 'Stevens', 'Mikaelson', "Romanoff"];
 ```
-
-Can you write a program that will iterate over both arrays simultaneously and output the corresponding values?
 
 Example output:
 ```plain-text

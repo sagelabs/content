@@ -25,9 +25,9 @@ setupCode:
 
 ## Content
 
-How would you write a program that will add, subtract, multiply or divide two numbers? 
-
-> The output should contain a message along with the result.
+> 👩‍💻 Your task is to create a program that will:
+> - **add, subtract, multiply or divide two numbers**
+> - **output the result along with a message**
 
 It's up to you to choose which operation to use and what the message will be.
 
