@@ -70,12 +70,11 @@ What would be the return value of the following method:
 // ???
 ```
 
-- `ti` 
-- `ut` 
-- `if` 
-- `be` 
+- `ti`
+- `ut`
+- `if`
+- `be`
 - `ul`
-
 
 ---
 
@@ -89,5 +88,5 @@ When calling the following function:
 
 The output will ??? the character with index 3.
 
-- `exclude` 
+- `exclude`
 - `include`

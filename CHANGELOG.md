@@ -53,6 +53,11 @@ Types of change:
 - [Python - Python Versions - Remove type in the gap](https://github.com/enkidevs/curriculum/pull/2793)
 - [JavaScript - All Coding Exercises - Update setupCode](https://github.com/enkidevs/curriculum/pull/2792)
 
+## July 20th 2021
+
+### Fixed
+- [Java - How Range Operations Work - Remove trailing spaces from possible PQ answer](https://github.com/enkidevs/curriculum/pull/2797)
+
 ## July 19th 2021
 
 ### Fixed
